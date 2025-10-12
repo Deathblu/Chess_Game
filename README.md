@@ -79,7 +79,7 @@ Run the game:
 
 ## 🖼️ Gameplay Screenshot
   
-![Chess Screenshot](Screenshot 2025-10-12 160137.png)
+![Chess Screenshot](./Screenshot_2025-10-12_160137.png)
 
 ---
 

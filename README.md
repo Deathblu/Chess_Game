@@ -78,9 +78,8 @@ Run the game:
 ---
 
 ## 🖼️ Gameplay Screenshot
-
-*(Optional — add if you have one)*  
-![Chess Screenshot](assets/chess_screenshot.png)
+  
+![Chess Screenshot](Screenshot 2025-10-12 160137.png)
 
 ---
 

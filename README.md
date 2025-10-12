@@ -10,7 +10,7 @@ It’s designed to demonstrate **game logic implementation**, **object-oriented 
 
 Here’s a short demo of the game in action 👇  
 
-![Chess Demo](assets/chess_demo.gif)
+![Chess Demo](./chess_game_recording.gif)
 
 
 ---
@@ -79,7 +79,7 @@ Run the game:
 
 ## 🖼️ Gameplay Screenshot
   
-![Chess Screenshot](./Screenshot_2025-10-12_160137.png)
+![Chess Screenshot](./chess_gameplay.png)
 
 ---
 

@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Project/C++ project/Chess_SFML/build/cmake_install.cmake",
+		"D:/Project/C++ project/Chess_SFML/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,11 @@
+# ninja log v7
+20	1350	7816464130645622	src/CMakeFiles/Chess-SFML.dir/board.cpp.obj	839896b2e86d96a6
+45	1413	7816464130905958	src/CMakeFiles/Chess-SFML.dir/pieceTextures.cpp.obj	57d8b4a30d842d6b
+32	1446	7816464130770105	src/CMakeFiles/Chess-SFML.dir/main.cpp.obj	9cbdb76994a1a825
+39	1480	7816464130835392	src/CMakeFiles/Chess-SFML.dir/piece.cpp.obj	3dd5e4835c1de7d3
+25	2043	7816464130705958	src/CMakeFiles/Chess-SFML.dir/chessGame.cpp.obj	a05166f61db9633d
+2043	2374	7816464150874376	src/Chess-SFML.exe	c1aecae8f18639b1
+38	870	7816466971955660	src/CMakeFiles/Chess-SFML.dir/pieceTextures.cpp.obj	57d8b4a30d842d6b
+871	1115	7816466980281294	src/Chess-SFML.exe	c1aecae8f18639b1
+37	753	7816467294187567	src/CMakeFiles/Chess-SFML.dir/pieceTextures.cpp.obj	57d8b4a30d842d6b
+755	975	7816467301342659	src/Chess-SFML.exe	c1aecae8f18639b1

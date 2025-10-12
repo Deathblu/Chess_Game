@@ -12,7 +12,6 @@ Here’s a short demo of the game in action 👇
 
 ![Chess Demo](assets/chess_demo.gif)
 
-*(Replace `assets/chess_demo.gif` with the actual path to your GIF in the repo.)*
 
 ---
 
@@ -104,8 +103,7 @@ Run the game:
 ## 👨‍💻 Author
 
 **Anurag Wanwe**  
-📧 [Your Email Here]  
-💼 [LinkedIn Profile or Portfolio URL]
+📧 anuwanwe1463@gmail.com    
 
 ---
 
